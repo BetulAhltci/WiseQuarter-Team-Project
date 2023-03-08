@@ -3,7 +3,7 @@
 
 # --Bektas Bey--
 SHOP 4. <br>
-MY ACCOUNT 2.
+  MY ACCOUNT <strong>2.</strong>
 
 
 # --Berkan Bey--
