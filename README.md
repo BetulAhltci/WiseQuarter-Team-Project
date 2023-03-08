@@ -3,7 +3,7 @@
 
 # --Bektas Bey--
 SHOP <strong>4.</strong> <br>
-  <font color="green"> MY ACCOUNT <strong>2.</strong></font>
+  <font color="red"> MY ACCOUNT <strong>2.</strong></font>
 
 
 # --Berkan Bey--
