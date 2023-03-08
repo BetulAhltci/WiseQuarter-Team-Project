@@ -1,47 +1,47 @@
 # WiseQuarter-Team-Project
 
 
-#--Bektas Bey--
+# --Bektas Bey--
 SHOP 4.
 MY ACCOUNT 2.
 
 
-#--Berkan Bey--
+# --Berkan Bey--
 MY ACCOUNT - LOGIN 5.
 SHOP 7.
 
 
-#--Ümre Hn.--
+# --Ümre Hn.--
 SHOP 1.
 MY ACCOUNT - REGISTRATION 2.
 
 
-#--Kübra Hn.--
+# --Kübra Hn.--
 SHOP 2.
 MY ACCOUNT - LOGIN 1.
 
 
-#--Betül Hn.--
+# --Betül Hn.--
 SHOP 3.
 MY ACCOUNT - REGISTRATION 3.
 
 
-#--Ahmet Bey--
+# --Ahmet Bey--
 SHOP 5.
 MY ACCOUNT - LOGIN 2.
 
 
-#--Esra Hn.--
+# --Esra Hn.--
 SHOP 6.
 MY ACCOUNT - REGISTRATION 4.
 
 
-#--Sinan Bey--
+# --Sinan Bey--
 SHOP 8. 
 MY ACCOUNT - REGISTRATION 5.
 
 
-#--Tolga Bey--
+# --Tolga Bey--
 SHOP 9.
 MY ACCOUNT - LOGIN 3.
 
