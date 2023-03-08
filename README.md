@@ -1,4 +1,4 @@
-<h1 align="center"># WiseQuarter-Team-Project
+<h1 align="center"># WiseQuarter TEST CASE 2
 
 
 # --Bektas Bey--
