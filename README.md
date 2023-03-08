@@ -1,4 +1,4 @@
-# WiseQuarter-Team-Project
+<h1 align="center"># WiseQuarter-Team-Project
 
 
 # --Bektas Bey--
@@ -46,7 +46,7 @@ SHOP 9.      ||||||||
 MY ACCOUNT - LOGIN 3.
 
 
-
+</h1>
 
 
 
