@@ -1,7 +1,7 @@
 <h1 align="center"> WiseQuarter TestCase 2
 
 
-    <a href="#2"> --Bektas Bey--</a>
+# --Bektas Bey--
 SHOP <strong>4.</strong> <br>
 MY ACCOUNT <strong>2.</strong>
 
