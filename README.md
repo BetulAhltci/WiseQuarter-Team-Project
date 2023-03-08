@@ -1,14 +1,14 @@
 <h1 align="center"> WiseQuarter TestCase 2
 
 
-# --Bektas Bey--
+    <a href="#2"># --Bektas Bey--</a>
 SHOP <strong>4.</strong> <br>
 MY ACCOUNT <strong>2.</strong>
 
 
 # --Berkan Bey--
 SHOP <strong>7.</strong> <br>
-    <a href="#2">MY ACCOUNT - LOGIN <strong>5.</strong></a>
+MY ACCOUNT - LOGIN <strong>5.</strong>
 
 
 # --Ümre Hanım--
