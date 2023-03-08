@@ -50,30 +50,29 @@ MY ACCOUNT - LOGIN <strong>3.</strong>
 
 
 
-<table border="1">
-<h1 id="BAS"></h1>
-    <tr>
-        <td>
-            <font face="Arial" size="5"> Bu İçerikte Neler Var?</font>
-            <ol>
-                <a href="#1"> <font size="4"><li>Mardin'de Gezilecek Yerler</li></font></a>
+<table>
 
-                <ol type="1">
-                    <a href="#2">1.1. Kasımiye Medresesi</a><br>
-                    <a href="#3">1.2. Mardin Ulu Camisi</a><br>
-                    <a href="#4">1.3. Zinciriye Medresesi</a><br>
-                    <a href="#5">1.4. Mardin Kalesi</a><br>
-                    <a href="#6">1.5. Deyrulzafaran Manastırı</a><br>
-
-                </ol>
-
-                <a href="#7"><font size="4"><li>Mardin'e Nasıl Gidilir?</li></font></a>
-                <ol>
-                    <a href="#8">2.1. Marin'e Karayolu İle Ulaşım</a><br>
-                    <a href="#9">2.2. Mardin'e Hava Yolu İle Ulaşım</a>
-                </ol>
-            </ol>
-          </ol>
-        </td>
+    <table border="1">
+        <tr id="table1">
+        <th style="width: 120;">Sınıf</th>
+        <th  style="width: 380px;">Başkan</th>
+        <th  style="width: 320px;">Yardımcı</th>
     </tr>
-</table>
+        <tr id="table2">
+            <td style="width: 120;">11 MB</td>
+            <td  style="width: 380px;">Kubilay Aydoğan</td>
+            <td  style="width: 320px;">Sevim İkbal</td>
+        </tr>
+        <tr id="table3">
+            <td style="width: 120;">11 AB</td>
+            <td  style="width: 380px;">Gürkan Öztürk</td>
+            <td  style="width: 320px;">Ömer Ceyhun</td>
+        </tr>
+
+        <tr id="table4">
+            <td style="width: 120;">11 TB</td>
+            <td  style="width: 380px;">Ferhat Kara</td>
+            <td  style="width: 320px;">Talha Bakır</td>
+        </tr>
+
+    </table>
