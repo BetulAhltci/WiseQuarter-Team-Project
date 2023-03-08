@@ -50,6 +50,17 @@ MY ACCOUNT - LOGIN <strong>3.</strong>
 
 
 
+<html>
+<head> 
+<title>BektasCSSdersleri</title>
+<link href="tabloodevi.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+
+
+
 <table>
 
     <table border="1">
@@ -76,3 +87,8 @@ MY ACCOUNT - LOGIN <strong>3.</strong>
         </tr>
 
     </table>
+
+
+
+</body>
+</html>
