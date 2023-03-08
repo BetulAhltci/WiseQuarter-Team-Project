@@ -2,47 +2,47 @@
 
 
 # --Bektas Bey--
-SHOP 4.      ||||||||<br>
+SHOP 4. <br>
 MY ACCOUNT 2.
 
 
 # --Berkan Bey--
-SHOP 7.      ||||||||
+SHOP 7. <br>
 MY ACCOUNT - LOGIN 5.
 
 
 # --Ümre Hn.--
-SHOP 1.      ||||||||
+SHOP 1. <br>
 MY ACCOUNT - REGISTRATION 2.
 
 
 # --Kübra Hn.--
-SHOP 2.      ||||||||
+SHOP 2. <br>
 MY ACCOUNT - LOGIN 1.
 
 
 # --Betül Hn.--
-SHOP 3.      ||||||||
+SHOP 3. <br>
 MY ACCOUNT - REGISTRATION 3.
 
 
 # --Ahmet Bey--
-SHOP 5.      ||||||||
+SHOP 5. <br>
 MY ACCOUNT - LOGIN 2.
 
 
 # --Esra Hn.--
-SHOP 6.      ||||||||
+SHOP 6. <br>
 MY ACCOUNT - REGISTRATION 4.
 
 
 # --Sinan Bey--
-SHOP 8.       ||||||||
+SHOP 8. <br>
 MY ACCOUNT - REGISTRATION 5.
 
 
 # --Tolga Bey--
-SHOP 9.      ||||||||
+SHOP 9.  <br>
 MY ACCOUNT - LOGIN 3.
 
 
