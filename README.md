@@ -7,8 +7,8 @@ MY ACCOUNT 2.
 
 
 # --Berkan Bey--
-MY ACCOUNT - LOGIN 5.      ||||||||
-SHOP 7.
+SHOP 7.      ||||||||
+MY ACCOUNT - LOGIN 5.
 
 
 # --Ümre Hn.--
