@@ -35,6 +35,7 @@ public class PracticePage {
     @FindBy(xpath = "//ul[@class='woocommerce-error']")
     public  WebElement basarisizGirisText;
 
+
     @FindBy(xpath = "(//input[@type='submit'])[2]")
     public WebElement registerButonu;
 
