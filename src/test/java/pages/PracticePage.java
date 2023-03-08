@@ -12,6 +12,7 @@ public class PracticePage {
     }
 
 
+
     @FindBy(linkText = "My Account")
     public WebElement myAccount;
 
