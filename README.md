@@ -2,48 +2,48 @@
 
 
 # --Bektas Bey--
-SHOP 4. <br>
-  MY ACCOUNT <h6>2.</h6>
+SHOP <strong>4.</strong> <br>
+  MY ACCOUNT <strong>2.</strong>
 
 
 # --Berkan Bey--
-SHOP 7. <br>
-MY ACCOUNT - LOGIN 5.
+SHOP <strong>7.</strong> <br>
+MY ACCOUNT - LOGIN <strong>5.</strong>
 
 
-# --Ümre Hn.--
-SHOP 1. <br>
-MY ACCOUNT - REGISTRATION 2.
+# --Ümre Hanım--
+SHOP <strong>1.</strong> <br>
+MY ACCOUNT - REGISTRATION <strong>2.</strong>
 
 
-# --Kübra Hn.--
-SHOP 2. <br>
-MY ACCOUNT - LOGIN 1.
+# --Kübra Hanım--
+SHOP <strong>2.</strong> <br>
+MY ACCOUNT - LOGIN <strong>1.</strong>
 
 
-# --Betül Hn.--
-SHOP 3. <br>
-MY ACCOUNT - REGISTRATION 3.
+# --Betül Hanım--
+SHOP <strong>3.</strong> <br>
+MY ACCOUNT - REGISTRATION <strong>3.</strong>
 
 
 # --Ahmet Bey--
-SHOP 5. <br>
-MY ACCOUNT - LOGIN 2.
+SHOP <strong>5.</strong> <br>
+MY ACCOUNT - LOGIN <strong>2.</strong>
 
 
-# --Esra Hn.--
-SHOP 6. <br>
-MY ACCOUNT - REGISTRATION 4.
+# --Esra Hanım--
+SHOP <strong>6.</strong> <br>
+MY ACCOUNT - REGISTRATION <strong>4.</strong>
 
 
 # --Sinan Bey--
-SHOP 8. <br>
-MY ACCOUNT - REGISTRATION 5.
+SHOP <strong>8.</strong><br>
+MY ACCOUNT - REGISTRATION <strong>5.</strong>
 
 
 # --Tolga Bey--
-SHOP 9.  <br>
-MY ACCOUNT - LOGIN 3.
+SHOP <strong>9.</strong>  <br>
+MY ACCOUNT - LOGIN <strong>3.</strong>
 
 
 </h1>
