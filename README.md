@@ -8,7 +8,7 @@ MY ACCOUNT <strong>2.</strong>
 
 # --Berkan Bey--
 SHOP <strong>7.</strong> <br>
-MY ACCOUNT - LOGIN <strong>5.</strong>
+    <a href="#2">MY ACCOUNT - LOGIN <strong>5.</strong></a>
 
 
 # --Ümre Hanım--
@@ -50,45 +50,4 @@ MY ACCOUNT - LOGIN <strong>3.</strong>
 
 
 
-<html>
-<head> 
-<title>BektasCSSdersleri</title>
-<link href="tabloodevi.css" rel="stylesheet" type="text/css">
-</head>
 
-<body>
-
-
-
-
-<table>
-
-    <table border="1">
-        <tr id="table1">
-        <th style="width: 120;">Sınıf</th>
-        <th  style="width: 380px;">Başkan</th>
-        <th  style="width: 320px;">Yardımcı</th>
-    </tr>
-        <tr id="table2">
-            <td style="width: 120;">11 MB</td>
-            <td  style="width: 380px;">Kubilay Aydoğan</td>
-            <td  style="width: 320px;">Sevim İkbal</td>
-        </tr>
-        <tr id="table3">
-            <td style="width: 120;">11 AB</td>
-            <td  style="width: 380px;">Gürkan Öztürk</td>
-            <td  style="width: 320px;">Ömer Ceyhun</td>
-        </tr>
-
-        <tr id="table4">
-            <td style="width: 120;">11 TB</td>
-            <td  style="width: 380px;">Ferhat Kara</td>
-            <td  style="width: 320px;">Talha Bakır</td>
-        </tr>
-
-    </table>
-
-
-
-</body>
-</html>
