@@ -1,49 +1,54 @@
 <h1 align="center"> WiseQuarter TestCase 2
 
 
-# --Bektas Bey--
-SHOP <strong>4.</strong> <br>
-MY ACCOUNT <strong>2.</strong>
+
+SİTE  = https://practice.automationtesting.in/test-cases/
 
 
-# --Berkan Bey--
-SHOP <strong>7.</strong> <br>
-MY ACCOUNT - LOGIN <strong>5.</strong>
+________________HOME PAGE________________
 
 
-# --Ümre Hanım--
-SHOP <strong>1.</strong> <br>
-MY ACCOUNT - REGISTRATION <strong>2.</strong>
+--Bektas Bey--
+1.
+
+--Berkan Bey--
+3.
+
+--Ümre Hn.--
+5.
+6.
+
+--Kübra Hn.--
+7.
+8.
+
+--Betül Hn.--
+9.
+10.
+
+--Ahmet Bey--
+11.
+12.
+
+--Esra Hn.--
+13.
+14.
+
+--Sinan Bey--
+15.
+4.
+
+--Tolga Bey--
+2.
 
 
-# --Kübra Hanım--
-SHOP <strong>2.</strong> <br>
-MY ACCOUNT - LOGIN <strong>1.</strong>
 
 
-# --Betül Hanım--
-SHOP <strong>3.</strong> <br>
-MY ACCOUNT - REGISTRATION <strong>3.</strong>
 
 
-# --Ahmet Bey--
-SHOP <strong>5.</strong> <br>
-MY ACCOUNT - LOGIN <strong>2.</strong>
 
 
-# --Esra Hanım--
-SHOP <strong>6.</strong> <br>
-MY ACCOUNT - REGISTRATION <strong>4.</strong>
 
-
-# --Sinan Bey--
-SHOP <strong>8.</strong><br>
-MY ACCOUNT - REGISTRATION <strong>5.</strong>
-
-
-# --Tolga Bey--
-SHOP <strong>9.</strong>  <br>
-MY ACCOUNT - LOGIN <strong>3.</strong>
 
 
 </h1>

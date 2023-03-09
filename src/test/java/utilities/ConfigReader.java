@@ -5,6 +5,7 @@ import java.util.Properties;
 
 public class ConfigReader {
 
+
     static Properties properties;
 
     static {                                                // static blok ilk aşta çalışacak
@@ -17,10 +18,19 @@ public class ConfigReader {
 
         } catch (IOException e) {
             System.out.println("properties dosyasi okunamadi");
+<<<<<<< HEAD
+=======
+
+>>>>>>> main
         }
     }
 
     public static String getProperty(String key){
         return properties.getProperty(key);
     }
+<<<<<<< HEAD
 }
+=======
+
+}
+>>>>>>> main

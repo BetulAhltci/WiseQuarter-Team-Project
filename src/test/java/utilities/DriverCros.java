@@ -6,36 +6,24 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.safari.SafariDriver;
+import tests.utilities.ConfigReader;
 
 import java.time.Duration;
 
-public class Driver {
-
-<<<<<<< HEAD
-=======
-
->>>>>>> main
-    private Driver(){
+public class DriverCros {
+    private DriverCros(){
 
     }
-
-    /* Daha fazla kontrol imkani ve extends kullanmadan driver'a ulasmak icin
-       webDriver objesini Driver class'indaki static bir method ile olusturacagiz
-      Ancak getDriver() her kullanildiginda yeni bir driver olusturuyor
-      bunu engellemek ve kodumuzun duzgun calismasini saglamak icin
-      ilk kullanimda  driver= new ChromeDriver(); kodu calissin
-      sonraki kullanimlarda calismasin diye bir yontem gelistirmeliyiz
-     */
-
     public static WebDriver driver;
 
-    public static WebDriver getDriver(){
+    public static WebDriver getDriver(String browser){
 
-        String istenenBrowser = ConfigReader.getProperty("browser");
+        browser = browser==null ? ConfigReader.getProperty("browser") :browser;
+
 
         if (driver==null) {
 
-            switch (istenenBrowser){
+            switch (browser){
 
                 case "firefox" :
                     WebDriverManager.firefoxdriver().setup();

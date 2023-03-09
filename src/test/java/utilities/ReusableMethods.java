@@ -76,7 +76,11 @@ public class ReusableMethods {
 
     //   HARD WAIT WITH THREAD.SLEEP
 //   waitFor(5);  => waits for 5 second
+<<<<<<< HEAD
     public static void bekle(int saniye) {
+=======
+    public static void sleep(int saniye) {
+>>>>>>> main
         try {
             Thread.sleep(saniye * 1000);
         } catch (InterruptedException e) {
@@ -112,7 +116,11 @@ public class ReusableMethods {
                 element.click();
                 return;
             } catch (WebDriverException e) {
+<<<<<<< HEAD
                 bekle(1);
+=======
+                sleep(1);
+>>>>>>> main
             }
         }
     }
