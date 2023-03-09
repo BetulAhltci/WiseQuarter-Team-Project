@@ -5,9 +5,9 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import utilities.Driver;
 
-public class PracticePage {
+public class HomePage {
 
-    public PracticePage(){
+    public HomePage(){
         PageFactory.initElements(Driver.getDriver(),this);
     }
 
@@ -39,8 +39,14 @@ public class PracticePage {
     @FindBy(xpath = "(//input[@type='submit'])[2]")
     public WebElement registerButonu;
 
+    @FindBy(linkText = "Shop")
+    public WebElement shop;
 
+    @FindBy(xpath = "//img[@src='https://practice.automationtesting.in/wp-content/uploads/2017/01/color-logo-original.png']")
+    public WebElement homeButonu;
 
+    @FindBy(xpath = "//div[@class='woocommerce']")
+    public WebElement threeArrivals;
 
 
 }
