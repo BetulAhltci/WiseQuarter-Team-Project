@@ -11,20 +11,18 @@ import java.time.Duration;
 
 public class Driver {
 
-<<<<<<< HEAD
-=======
-
->>>>>>> main
     private Driver(){
 
     }
 
     /* Daha fazla kontrol imkani ve extends kullanmadan driver'a ulasmak icin
        webDriver objesini Driver class'indaki static bir method ile olusturacagiz
+
       Ancak getDriver() her kullanildiginda yeni bir driver olusturuyor
       bunu engellemek ve kodumuzun duzgun calismasini saglamak icin
       ilk kullanimda  driver= new ChromeDriver(); kodu calissin
       sonraki kullanimlarda calismasin diye bir yontem gelistirmeliyiz
+
      */
 
     public static WebDriver driver;

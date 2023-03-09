@@ -1,13 +1,8 @@
 package utilities;
-
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.support.ui.ExpectedCondition;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.FluentWait;
-import org.openqa.selenium.support.ui.WebDriverWait;
-
+import org.openqa.selenium.support.ui.*;
 import java.io.File;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
@@ -15,6 +10,7 @@ import java.time.Duration;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
+import java.util.Random;
 import java.util.function.Function;
 
 public class ReusableMethods {
@@ -76,11 +72,7 @@ public class ReusableMethods {
 
     //   HARD WAIT WITH THREAD.SLEEP
 //   waitFor(5);  => waits for 5 second
-<<<<<<< HEAD
     public static void bekle(int saniye) {
-=======
-    public static void sleep(int saniye) {
->>>>>>> main
         try {
             Thread.sleep(saniye * 1000);
         } catch (InterruptedException e) {
@@ -116,11 +108,7 @@ public class ReusableMethods {
                 element.click();
                 return;
             } catch (WebDriverException e) {
-<<<<<<< HEAD
                 bekle(1);
-=======
-                sleep(1);
->>>>>>> main
             }
         }
     }
