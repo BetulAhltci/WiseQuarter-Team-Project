@@ -40,6 +40,34 @@ public class PracticePage {
     public WebElement registerButonu;
 
 
+    @FindBy(id = "menu-item-40")
+    public static WebElement shop;
+
+    @FindBy(xpath = "//a[text()='Home']")
+    public static WebElement home;
+
+    @FindBy(xpath = "//p[text()='Out of stock']")
+    public static WebElement stoktaYok;
+
+    @FindBy(xpath = "(//img[@class='attachment-shop_catalog size-shop_catalog wp-post-image'])[1]")
+    public static WebElement stokdaOlmyanElement;
+
+    @FindBy(xpath = "(//img[@class='attachment-shop_catalog size-shop_catalog wp-post-image'])[3]")
+    public static WebElement stokdaOlanElement;
+
+    @FindBy(xpath = "//a[text()='Add to basket']")
+    public static WebElement sepeteEkle;
+
+    @FindBy(xpath = "//a[@title='View your shopping cart']")
+    public static WebElement sepetMenu;
+
+    @FindBy(id = "coupon_code")
+    public static WebElement cuponcod;
+
+    @FindBy(xpath = "//input[@value='Apply Coupon']")
+    public static WebElement cuponUygula;
+
+
 
 
 }

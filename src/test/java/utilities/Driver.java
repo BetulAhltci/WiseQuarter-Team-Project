@@ -11,52 +11,39 @@ import java.time.Duration;
 
 public class Driver {
 
-    private Driver(){}
+
+    private Driver() {
+    }
+
     public static WebDriver driver;
 
     public static WebDriver getDriver() {
 
-        String istenenBrowser=ConfigReader.getProperty("browser");
+        String istenenBrowser = ConfigReader.getProperty("browser");
 
         if (driver == null) {
 
-            switch (istenenBrowser){
+            switch (istenenBrowser) {
                 case "firefox":
                     WebDriverManager.firefoxdriver().setup();
-                    driver=new FirefoxDriver();
+                    driver = new FirefoxDriver();
                     break;
                 case "edge":
                     WebDriverManager.edgedriver().setup();
-                    driver=new EdgeDriver();
+                    driver = new EdgeDriver();
                     break;
                 case "safari":
                     WebDriverManager.safaridriver().setup();
-                    driver=new SafariDriver();
+                    driver = new SafariDriver();
                     break;
                 default:
                     WebDriverManager.chromedriver().setup();
                     driver = new ChromeDriver();
             }
 
-
-        }
-
-        driver.manage().window().maximize();
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
-
-        return driver;
-    }
-
-    public static void closeDriver() {
-        if (driver != null) {
-            driver.quit();
-            driver = null;
         }
 
 
-    }
 }
-
-
 
 
