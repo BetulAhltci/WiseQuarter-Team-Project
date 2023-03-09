@@ -6,6 +6,7 @@ import java.util.Properties;
 
 public class ConfigReader {
 
+
     static Properties properties;
 
     static {
@@ -19,7 +20,7 @@ public class ConfigReader {
 
 
         } catch (IOException e) {
-            System.out.println("HATA : Properties Dosyasi Okunamadi");
+            System.out.println("properties dosyasi okunamadi");
 
         }
 
@@ -29,4 +30,5 @@ public class ConfigReader {
 
         return properties.getProperty(key);
     }
+
 }
